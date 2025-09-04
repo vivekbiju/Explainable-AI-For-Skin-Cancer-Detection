@@ -45,5 +45,5 @@ A diverse suite of XAI techniques was applied to the final ResNet50 model to pro
 
 The **ResNet50** model emerged as the top-performing architecture, achieving a **test accuracy of 92.4%** and a **malignant class F1-Score of 0.92**. The systematic XAI comparison revealed that standard **Grad-CAM** provided the most effective, intuitive, and clinically relevant visual explanations for this task.
 
-Acknowledgements
+##Acknowledgements
 This work was submitted in partial fulfilment of the requirements for the degree of MSc Artificial Intelligence at the University of Plymouth. My deepest gratitude to my supervisor,Dr Haoyi Wang, for her invaluable guidance.
