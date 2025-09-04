@@ -2,7 +2,7 @@
 Explainable AI for skin cancer detection
 
 
-This repository contains the source code and research for the MSc dissertation titled "Explainable AI for Skin Cancer Detection." The project evaluates multiple deep learning architectures for classifying dermatoscopic images of skin lesions and employs a suite of Explainable AI (XAI) techniques to interpret the final model's predictions.
+This repository contains the source code that implements the research for the MSc dissertation titled "Explainable AI for Skin Cancer Detection". The project evaluates multiple deep learning architectures for classifying dermatoscopic images of skin lesions and employs a suite of Explainable AI (XAI) techniques to interpret the final model's predictions.
 
 **Overview**
 
